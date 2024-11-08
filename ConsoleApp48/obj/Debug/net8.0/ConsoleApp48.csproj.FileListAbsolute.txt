@@ -1,0 +1,14 @@
+C:\Users\Админ\source\repos\ConsoleApp48\bin\Debug\net8.0\ConsoleApp48.exe
+C:\Users\Админ\source\repos\ConsoleApp48\bin\Debug\net8.0\ConsoleApp48.deps.json
+C:\Users\Админ\source\repos\ConsoleApp48\bin\Debug\net8.0\ConsoleApp48.runtimeconfig.json
+C:\Users\Админ\source\repos\ConsoleApp48\bin\Debug\net8.0\ConsoleApp48.dll
+C:\Users\Админ\source\repos\ConsoleApp48\bin\Debug\net8.0\ConsoleApp48.pdb
+C:\Users\Админ\source\repos\ConsoleApp48\obj\Debug\net8.0\ConsoleApp48.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\source\repos\ConsoleApp48\obj\Debug\net8.0\ConsoleApp48.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\ConsoleApp48\obj\Debug\net8.0\ConsoleApp48.AssemblyInfo.cs
+C:\Users\Админ\source\repos\ConsoleApp48\obj\Debug\net8.0\ConsoleApp48.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\ConsoleApp48\obj\Debug\net8.0\ConsoleApp48.dll
+C:\Users\Админ\source\repos\ConsoleApp48\obj\Debug\net8.0\refint\ConsoleApp48.dll
+C:\Users\Админ\source\repos\ConsoleApp48\obj\Debug\net8.0\ConsoleApp48.pdb
+C:\Users\Админ\source\repos\ConsoleApp48\obj\Debug\net8.0\ConsoleApp48.genruntimeconfig.cache
+C:\Users\Админ\source\repos\ConsoleApp48\obj\Debug\net8.0\ref\ConsoleApp48.dll
